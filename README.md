@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @optimus371
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Francis Kasmikha
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Computer Engineering at Michigan State University
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me is by email at Kasmikh6@msu.edu
 
-<!---
-optimus371/optimus371 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
